@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Jaydeep</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydeep077&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeep077" /> </p>
+- 🔭 I’m currently working on **flutter**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaydeep077" alt="jaydeep077" /></a> </p>
+- 👯 I’m looking to collaborate on Anything where I can actually be useful ..
+
+- 🤝 I’m looking for help with Creating new ways to mix tech with creativity. 💡💻
 
 - 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **jaydeepmishra077@gmail.com**
 
 - ⚡ Fun fact **A cricket match can last five days, but debugging that one missing semicolon takes even longer. 🎮🏏**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydeep077&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeep077" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaydeep077" alt="jaydeep077" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydeep077&show_icons=true&locale=en&layout=compact" alt="jaydeep077" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaydeep077&show_icons=true&locale=en" alt="jaydeep077" /></p>
+
