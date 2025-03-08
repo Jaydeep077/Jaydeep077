@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jaydeep</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1 align="center">Hi 👋, I'm Jaydeep Mishra</h1>
+<h3 align="center"> cs engineer</h3>
 
-- 🔭 I’m currently working on **flutter**
+- 🔭 I’m currently working on **web dev**
 
 - 👯 I’m looking to collaborate on Anything where I can actually be useful ..
 
 - 🤝 I’m looking for help with Creating new ways to mix tech with creativity. 💡💻
-
-- 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **jaydeepmishra077@gmail.com**
 
