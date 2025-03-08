@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaydeep Mishra</h1>
-<h3 align="center"> cs engineer</h3>
+<h3 align="center"> csit Student</h3>
 
 - 🔭 I’m currently working on **web dev**
 
