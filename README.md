@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jaydeep Mishra</h1>
-<h3 align="center">CSIT Student</h3>
 
-- 🔭 I’m currently working on **web dev**
+ I am always a beginner.
+ 
 
-- 👯 I’m looking to collaborate on Anything where I can actually be useful.
+I’m looking to collaborate on Anything where I can actually be useful.
 
-- 🤝 I’m looking for help with Creating new ways to mix tech with creativity. 🎡💻
-
-- 📧 How to reach me **jaydeepmishra077@gmail.com**
-
-- ⚡ Fun fact **A cricket match can last five days, but debugging that one missing semicolon takes even longer. 🎮🏏**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydeep077&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeep077" /> </p>
 
